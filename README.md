@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bhoopeshsahu8499
+- 👋 Hi, I’m bhoopesh sahu
 -graduation- b.tech(mechanical)
 -other skills- html, css, email-marketing,email-template design.
 -👀 I’m interested in front end development
